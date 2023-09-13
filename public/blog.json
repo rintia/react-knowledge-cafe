@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://i.ibb.co/dgRNmGb/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
+      "title": "the art of programming",
+      "author": "john doe",
+      "author_img" : "https://i.ibb.co/QFKv5cF/sergio-de-paula-c-Gmwf-HBDzk-unsplash.jpg",
+      "date": "2023-09-13",
+      "hashtags": ["coding", "programming", "software"],
+      "reading_time": 15
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://i.ibb.co/sjq1vct/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "cooking with passion",
+      "author": "jane smith",
+      "author_img" : "https://i.ibb.co/yNjcCrD/craig-mckay-jm-URdhtm7-Ng-unsplash.jpg",
+      "date": "2023-09-12",
+      "hashtags": ["cooking", "recipes", "food"],
+      "reading_time": 10
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://i.ibb.co/0ypvdry/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "title": "traveling the world",
+      "author": "mary brown",
+      "author_img" : "https://i.ibb.co/BzLg27n/stefan-stefancik-QXev-Dflbl8-A-unsplash.jpg",
+      "date": "2023-09-11",
+      "hashtags": ["travel", "adventure", "explore"],
+      "reading_time": 20
+    },
+    {
+      "id": 4,
+      "cover_photo": "https://i.ibb.co/mzQbw55/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+      "title": "health and fitness tips",
+      "author": "david wilson",
+      "author_img" : "https://i.ibb.co/7zP5MhJ/jonas-kakaroto-mj-Rwhvq-EC0-U-unsplash.jpg",
+      "date": "2023-09-10",
+      "hashtags": ["health", "fitness", "wellness"],
+      "reading_time": 12
+    },
+    {
+      "id": 5,
+      "cover_photo": "https://i.ibb.co/vPgpsgv/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+      "title": "the art of photography",
+      "author": "susan miller",
+      "author_img" : "https://i.ibb.co/CBZHcRX/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+      "date": "2023-09-09",
+      "hashtags": ["photography", "art", "creativity"],
+      "reading_time": 18
+    }
+  ]
+  
